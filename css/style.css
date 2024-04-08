@@ -385,5 +385,5 @@ main > div{
     width: 150px;
     height: 150px;
     position: absolute;
-    background-color: none;
+    background: none;
 }
